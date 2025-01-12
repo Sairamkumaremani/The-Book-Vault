@@ -1,0 +1,92 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "Rich Dad Poor Dad",
+            "image": "https://wallpapercave.com/wp/wp6668685.jpg",
+            "category": "business",
+            "oldPrice": 700,
+            "newPrice": 560,
+            "discount": 20,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "2",
+            "name": "The 5 AM Club",
+            "image": "https://5.imimg.com/data5/XE/DD/AO/SELLER-19351533/the-5-am-club-own-your-morning-elevate-your-life-robin-sharma-250x250.jpg",
+            "category": "business",
+            "oldPrice": 600,
+            "newPrice": 402,
+            "discount": 33,
+            "rating": 4.5,
+            "isInStock": true
+        },
+        {
+            "id": "3",
+            "name": "Why I am An Atheist",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41zsMB3h+rL._SY344_BO1,204,203,200_.jpg",
+            "category": "motivation",
+            "oldPrice": 199,
+            "newPrice": 138,
+            "discount": 31,
+            "rating": 4,
+            "isInStock": false
+        },
+        {
+            "id": "4",
+            "name": "Subtle Art of Not...",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707._UY400_SS400_.jpg",
+            "category": "motivation",
+            "oldPrice": 800,
+            "newPrice": 400,
+            "discount": 50,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "5",
+            "name": "Ikigai",
+            "image": "https://readersbooksclub.com/wp-content/uploads/2023/04/Group-650.png",
+            "category": "comics",
+            "oldPrice": 399,
+            "newPrice": 318,
+            "discount": 20,
+            "rating": 4.4,
+            "isInStock": true
+        },
+        {
+            "id": "6",
+            "name": "Atomic Habits",
+            "image": "https://d1fa9n6k2ql7on.cloudfront.net/KFFQT96YQL2J4NM1664836845.jpg",
+            "category": "comics",
+            "oldPrice": 399,
+            "newPrice": 260,
+            "discount": 35,
+            "rating": 4.3,
+            "isInStock": true
+        },
+        {
+            "id": "7",
+            "name": "The Psychology of Money",
+            "image": "https://images.unsplash.com/photo-1592496431122-2349e0fbc666?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8M3x8fGVufDB8fHx8fA%3D%3D",
+            "category": "comics",
+            "oldPrice": 399,
+            "newPrice": 316,
+            "discount": 21,
+            "rating": 4.6,
+            "isInStock": true
+        },
+        {
+            "id": "8",
+            "name": "2 States",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZ_x-9H985kz1dfT4o1FxSIGUtMI2WK3UGw&s",
+            "category": "comics",
+            "oldPrice": 295,
+            "newPrice": 235,
+            "discount": 20,
+            "rating": 4.4,
+            "isInStock": true
+        }
+    ]
+}
